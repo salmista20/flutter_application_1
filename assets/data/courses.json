@@ -1,0 +1,38 @@
+[
+    {
+        "id": "001",
+        "title": "Pizza Hawaiana",
+        "category": "Comida"
+    },
+    {
+        "id": "002",
+        "title": "Pizza Americana",
+        "category": "Comida"
+    },
+    {
+        "id": "003",
+        "title": "Hamburguesa Clasica",
+        "category": "Comida"
+    },
+    {
+        "id": "004",
+        "title": "Hamburguesa Americana",
+        "category": "Comida"
+    },{
+        "id": "005",
+        "title": "Tamal_de_Pollo",
+        "category": "Comida"
+    },{
+        "id": "006",
+        "title": "Jugo_de_Fruta_Surtido",
+        "category": "Bebida"
+    },{
+        "id": "007",
+        "title": "Gaseosa_Pepsi_Cola",
+        "category": "Bebida"
+    },{
+        "id": "008",
+        "title": "Cerveza Cusquena",
+        "category": "Bebida"
+    }
+]
